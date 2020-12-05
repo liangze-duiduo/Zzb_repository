@@ -7,3 +7,8 @@ package exchranagerdasdwa.dadwad;
  * @Version 1.0
  */
 public class CreateTest {
+    public static void main(String[] args) {
+
+        System.out.println("今天心情真好！！n ");
+    }
+}
