@@ -9,6 +9,10 @@ package exchranagerdasdwa.dadwad;
 public class CreateTest {
     public static void main(String[] args) {
 
-        System.out.println("今天心情真好！！n fgsydufihjsuidsrtfyguhijnmok,zewssrdctfvygbhnjmkldfgds7fus");
+        System.out.println("今天22333");
+        System.out.println("25646fghfgh8");
+
+
+        System.out.println("xcvbnm");
     }
 }
