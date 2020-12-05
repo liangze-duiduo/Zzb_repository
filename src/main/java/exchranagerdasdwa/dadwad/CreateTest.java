@@ -9,6 +9,6 @@ package exchranagerdasdwa.dadwad;
 public class CreateTest {
     public static void main(String[] args) {
 
-        System.out.println("今天");
+        System.out.println("今天2");
     }
 }
