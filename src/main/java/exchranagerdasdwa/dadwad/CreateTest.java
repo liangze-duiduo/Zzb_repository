@@ -1,5 +1,7 @@
 package exchranagerdasdwa.dadwad;
 
+import javax.swing.plaf.synth.SynthOptionPaneUI;
+
 /**
  * @Description TODO
  * @Author liangze
@@ -11,5 +13,8 @@ public class CreateTest {
 
         System.out.println("今天22333");
         System.out.println("256468");
+
+
+        System.out.println("xcvbnm");
     }
 }
